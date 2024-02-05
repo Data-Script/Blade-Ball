@@ -1,3 +1,4 @@
+print("Data.Zero B ON.")
 local function get_plr()
   return game.Players.LocalPlayer
 end
