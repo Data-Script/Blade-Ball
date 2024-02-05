@@ -5,7 +5,7 @@ local runService = game:GetService("RunService")
 local parryButtonPress = replicatedStorage.Remotes.ParryButtonPress
 local ballsFolder = workspace:WaitForChild("Balls")
 
-print("Data.Zero ON.")
+print("Data.Zero A ON.")
 
 local function onCharacterAdded(newCharacter)
     character = newCharacter
